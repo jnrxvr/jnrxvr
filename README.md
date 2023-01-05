@@ -5,11 +5,11 @@
 
 <div>
   <a href="https://github.com/jnrxvr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jnrxvr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnrxvr&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jnrxvr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnrxvr&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="JR-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="JR-Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="JR-Anaconda" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg">
@@ -24,7 +24,7 @@
   
   ##
   
- <div>
+ <div align="center">
   <a href="https://medium.com/@jnrxvr" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/j0taxis" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="mailto:juniornxavier@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
