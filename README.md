@@ -1,5 +1,7 @@
 ## Olá! Muito prazer, eu sou o Junior!
-### Atualmente estou estudando todas as tecnologias abaixo. Tenho o sonho/objetivo de me tornar cientista de dados. Se você tiver alguma dica ou conselho, pode me contactar pelo LinkedIn ou E-mail, sua ajuda é muito bem-vinda![
+### Atualmente estou iniciando meus estudos nas tecnologias listadas abaixo. Tenho o sonho/objetivo de me tornar cientista de dados.
+
+Se você tiver alguma dica ou conselho, pode me contactar pelo *LinkedIn* ou *E-mail*, sua ajuda é muito bem-vinda!
 
 ##
 
