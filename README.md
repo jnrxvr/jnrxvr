@@ -1,5 +1,5 @@
 ## Olá! Muito prazer, eu sou o Junior!
-### Atualmente estou iniciando meus estudos nas tecnologias listadas abaixo. Tenho o sonho/objetivo de me tornar cientista de dados.
+### Sou engenheiro mecatrônico de formação, atualmente tenho buscado migrar pra área de dados afim de me tornar cientista de dados. Para isso tenho buscado estudar Python, SQL, análise de dados e algoritmos de machine learning.
 
 Se você tiver alguma dica ou conselho, pode me contactar pelo *LinkedIn* ou *E-mail*, sua ajuda é muito bem-vinda!
 
