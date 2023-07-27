@@ -1,5 +1,6 @@
-## Olá! Muito prazer, eu sou o Junior!
-### Sou engenheiro mecatrônico de formação, mas atualmente tenho buscado migrar pra área de dados afim de me tornar cientista de dados. Para isso tenho buscado estudar Python, SQL, análise de dados e algoritmos de machine learning.
+## Salve, tropa! Sim, eu faço programa!
+
+### Sou engenheiro mecatrônico de formação e atualmente tenho buscado direcionar minha carreira para ciência de dados. Para isso tenho buscado estudar Python, SQL, análise de dados e algoritmos de machine learning.
 
 Se você tiver alguma dica ou conselho, pode me contactar pelo *LinkedIn* ou *E-mail*, sua ajuda é muito bem-vinda!
 
