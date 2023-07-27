@@ -1,4 +1,6 @@
-## Salve, tropa! Sim, eu faço programa!
+# Salve, tropa! 
+
+## Sim, eu faço programa!
 
 ### Sou engenheiro mecatrônico de formação e atualmente tenho buscado direcionar minha carreira para ciência de dados. Para isso tenho buscado estudar Python, SQL, análise de dados e algoritmos de machine learning.
 
@@ -9,7 +11,7 @@ Se você tiver alguma dica ou conselho, pode me contactar pelo *LinkedIn* ou *E-
 <div>
   <a href="https://github.com/jnrxvr">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jnrxvr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnrxvr&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnrxvr&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
